@@ -1,20 +1,11 @@
 C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\bin\Debug\Personal Trainer.exe.config
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\bin\Debug\Personal Trainer.exe
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\bin\Debug\Personal Trainer.pdb
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\bin\Debug\Personal Trainer.xml
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal_Trainer.Resources.resources
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal Trainer.vbproj.GenerateResource.Cache
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal Trainer.exe
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal Trainer.xml
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal Trainer.pdb
-C:\Users\Moobi Kabelo\AppData\Local\Temporary Projects\Personal Trainer\obj\Debug\Personal_Trainer.Form1.resources
-E:\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.exe.config
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.exe
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.xml
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.pdb
-E:\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.exe
-E:\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.pdb
-E:\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.xml
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal_Trainer.Resources.resources
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.vbproj.GenerateResource.Cache
-E:\Personal Trainer\Personal Trainer\obj\Debug\Personal_Trainer.Dashboard.resources
+E:\Github\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.exe.config
+E:\Github\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.exe
+E:\Github\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.pdb
+E:\Github\Personal Trainer\Personal Trainer\bin\Debug\Personal Trainer.xml
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal_Trainer.Dashboard.resources
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal_Trainer.Resources.resources
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.vbproj.GenerateResource.Cache
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.exe
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.xml
+E:\Github\Personal Trainer\Personal Trainer\obj\Debug\Personal Trainer.pdb

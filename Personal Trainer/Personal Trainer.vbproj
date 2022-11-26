@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0503119F-995A-4544-BDF5-49558C6E8633}</ProjectGuid>
+    <ProjectGuid>{8D42357E-95E7-419A-966B-B7B24BA80561}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <StartupObject>Personal_Trainer.My.MyApplication</StartupObject>
     <RootNamespace>Personal_Trainer</RootNamespace>
@@ -115,6 +115,9 @@
       <LastGenOutput>Settings.Designer.vb</LastGenOutput>
     </None>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\th-3655963858.jpg" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
